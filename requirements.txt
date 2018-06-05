@@ -1,6 +1,4 @@
-shapely
-sympy
-numpy
+shapely>=1.6.4
+matplotlib>=2.1.2
 hypar
-matplotlib
 
