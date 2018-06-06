@@ -6,21 +6,21 @@
       "description": "Building width.",
       "max": 300,
       "min": 150,
-      "step": 5,
+      "step": 50,
       "type": "number"    
     },
     "rotation": {
       "description": "Building rotation.",
       "max": 355,
       "min": 5,
-      "step": 10,
+      "step": 50,
       "type": "number"    
     },
     "area": {
       "description": "Target building area.",
       "max": 200000,
       "min": 100000,
-      "step": 1000,
+      "step": 10000,
       "type": "number"    
     }    
   },
