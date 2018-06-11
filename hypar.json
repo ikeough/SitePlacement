@@ -4,7 +4,7 @@
   "parameters":{
     "length": {
       "description": "Building length.",
-      "max": 300,
+      "max": 400,
       "min": 200,
       "step": 50,
       "type": "number"    
@@ -12,15 +12,15 @@
     "width": {
       "description": "Building width.",
       "max": 300,
-      "min": 100,
-      "step": 100,
+      "min": 200,
+      "step": 50,
       "type": "number"    
     },
     "height": {
       "description": "Building floor height.",
-      "max": 40,
+      "max": 30,
       "min": 20,
-      "step": 10,
+      "step": 5,
       "type": "number"    
     },    
     "rotation": {
@@ -32,8 +32,8 @@
     },
     "area": {
       "description": "Target building area.",
-      "max": 200000,
-      "min": 100000,
+      "max": 150000,
+      "min": 80000,
       "step": 20000,
       "type": "number"    
     }    
